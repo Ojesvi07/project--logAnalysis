@@ -1,0 +1,16 @@
+Top three articles of all time and their total views are
+" candidate-is-jerk " - 677294 views
+" bears-love-berries " - 507602 views
+" bad-things-gone " - 340196 views
+
+
+Most popular article authors of all time with total page views are
+" Ursula La Multa " - 1015188 views
+" Rudolf von Treppenwitz " - 846914 views
+" Anonymous Contributor " - 340196 views
+" Markoff Chaney " - 169114 views
+
+
+Date(s) on which requests lead to errors more than 1%
+Jul 17, 2016 - 2.6 %errors
+
