@@ -62,7 +62,7 @@ create view totalcount as(select date(time),count(status) as total from log grou
 
 the view combine is used to get the view of error count as well as total count on a particular date.
 ```
-create view combine as (select error.date,error.count,total.total from error,total where error.date=total.date);
+create view combine as (select errorcount.date,errorcount.count,totalcount.total from errorcount,totalcount where errorcount.date=totalcount.date);
 ```
 
 The view result1 is used to get perecentage of errors on each date.
