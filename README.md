@@ -19,7 +19,7 @@ create view  new1 as (select replace(path,'/article/',''),count(path) from log g
  
 The view new2 combines a table article with view new1 to get the slug and count against each slug.
 ```
-create view new2 as( select slug,count from articles,new1 where articles.slug=new1.replace);
+create view neww2 as( select title,slug,count from articles,new1 where articles.slug=new1.replace);
 ```
 
 QUERY 2:

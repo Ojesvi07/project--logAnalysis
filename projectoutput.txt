@@ -1,7 +1,7 @@
 Top three articles of all time and their total views are
-" candidate-is-jerk " - 677294 views
-" bears-love-berries " - 507602 views
-" bad-things-gone " - 340196 views
+" Candidate is jerk, alleges rival " - 677294 views
+" Bears love berries, alleges bear " - 507602 views
+" Bad things gone, say good people " - 340196 views
 
 
 Most popular article authors of all time with total page views are

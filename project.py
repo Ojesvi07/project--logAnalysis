@@ -13,7 +13,7 @@ except psycopg2.Error as e:
 
 else:
     c = conn.cursor()
-    c.execute("select * from new2 order by count desc limit 3;")
+    c.execute("select title,count from neww2 order by count desc limit 3;")
     res = c.fetchall()
     c.execute("select * from output2 order by sum desc;")
     res1 = c.fetchall()
